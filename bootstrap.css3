@@ -1,0 +1,14 @@
+body{
+	font-family: 'Belleza', sans-serif;
+	
+}
+.imagecon{
+	height:400px;
+	width:20%;
+	float: left;
+	line-height: 400px;
+	text-align: center;
+	font-size: 30px;
+	color: blue;
+	font-family: 'Belleza', sans-serif;
+}
