@@ -3,12 +3,12 @@ body{
 	
 }
 .imagecon{
-	height:500px;
+	height:400px;
 	width:20%;
 	float: left;
-	line-height: 500px;
+	line-height: 400px;
 	text-align: center;
 	font-size: 30px;
-	color: yellow;
+	color: blue;
 	font-family: 'Belleza', sans-serif;
 }
